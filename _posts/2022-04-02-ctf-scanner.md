@@ -4,9 +4,8 @@ title: '#Whoami'
 tags: s4ori
 date: 2022-04-02 00:13 -0300
 ---
-Carta de presentacion?
----
 #whoami
+---
 
 Hola! , no se que te dio o como llegaste a esta web pero dejame presentarme.
 
