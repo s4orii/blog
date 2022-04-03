@@ -1,23 +1,27 @@
 ---
 layout: post
-title: CTF-Scanner
-categories: CTF-TOOL
-tags: NMAP CTFs Tools s4ori
+title: #Whoami
+tags: s4ori
 date: 2022-04-02 00:13 -0300
 ---
 Scanner for CTFs.
 
-![Skull-gif](/assets/img/post-images/skull.gif)
-<hr>
-## Install
-```bash
-git clone https://github.com/s4orii/CTF-Scanner.git ; chmod +x scanner.sh
-```
-<hr>
-## Use
-```bash
-./scanner [-a | -b | -c ]
-[]Modos: -a[Rápido/fast] -b[Detallado/Detailed] -c[Agresivo/Aggresive][]
-[]Uso:sudo ./script [-a][-b][-c] []
-```
+![Skull-gif](/assets/img/post-images/IncomparableFatalEastrussiancoursinghounds-size_restricted.gif)
+---
+#whoami
 
+Hola! , no se que te dio o como llegaste a esta web pero dejame presentarme.
+
+Soy ___s4ori___ , tengo ___#error_404___ años.
+Me dió por montar un blog bajo las ganas de darme a conocer en el mundo del CTF y Pentesting
+> Dar las gracias a @T3_6_9 por ayudarme con la estetica del mismo.
+El objetivo del blog es recopilar informacion y principalmente brindar conocimientos en formato español
+ya sea sobre CTF , Herramientas como *dnsenum* o *enum4linux* (Próximamente habrá un post.)
+
+Espero que te sientas comodo y que disfrutes de tu visita.
+
+
+Atte. *s4ori*
+a 0xfk101 team member.
+
+![Skull-gif](/assets/img/post-images/IncomparableFatalEastrussiancoursinghounds-size_restricted.gif)(https://google.com)
