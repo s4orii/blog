@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #Whoami
+title: '#Whoami'
 tags: s4ori
 date: 2022-04-02 00:13 -0300
 ---
