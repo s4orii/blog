@@ -5,8 +5,6 @@ tags: s4ori
 date: 2022-04-02 00:13 -0300
 ---
 Carta de presentacion?
-
-![Skull-gif](/assets/img/post-images/IncomparableFatalEastrussiancoursinghounds-size_restricted.gif)
 ---
 #whoami
 
