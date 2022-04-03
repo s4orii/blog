@@ -1,0 +1,32 @@
+#  The contact options.
+
+-
+  type: github
+  icon: 'fab fa-github'
+-
+  type: twitter
+  icon: 'fab fa-twitter'
+-
+ type: instagram
+ icon: 'fab fa-instagram'
+ noblank: false # open link in current tab
+ url: 'https://instagram.com/s4ori_'
+-
+ type: telegram
+ icon: 'fab fa-telegram'
+ noblank: false
+ url: 'https://t.me/s4ori'
+
+# Uncomment and complete the url below to enable more contact options
+# -
+#   type: mastodon
+#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your mastodon account page
+# -
+#   type: linkedin
+#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your Linkedin homepage
+# -
+#   type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  ''                  # Fill with your stackoverflow homepage
