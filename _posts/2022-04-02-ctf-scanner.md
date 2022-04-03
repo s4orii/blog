@@ -4,7 +4,7 @@ title: '#Whoami'
 tags: s4ori
 date: 2022-04-02 00:13 -0300
 ---
-Scanner for CTFs.
+Carta de presentacion?
 
 ![Skull-gif](/assets/img/post-images/IncomparableFatalEastrussiancoursinghounds-size_restricted.gif)
 ---
