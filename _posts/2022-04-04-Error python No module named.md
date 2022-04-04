@@ -23,7 +23,7 @@ y tal como dice el sitio , lo instalaremos con _pip_ y su correspondiente sintax
 
 ![solu3](/assets/img/errorinpy/solucion1.png)
 
-# Solucion 2
+# Solución 2
 
 Si lo previamente mostrado no dio frutos entorno a nuestro error , haremos lo siguiente.
 Buscaremos el _git_ o _github_ de nuestro modulo, siguiendo el ejemplo previo , buscaremos el git de requests.
