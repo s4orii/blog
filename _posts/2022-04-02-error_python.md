@@ -15,7 +15,7 @@ en este caso usare de ejemplo el de el error de la primera foto , el modulo _req
 
 ![solu1](/assets/img/errorinpy/formato.png)
 
-y entraremos donde este nuestro paquete por ejemplo _requests_ junto a su version y la web ___- PyPI___
+y entraremos donde este nuestro paquete junto a su version y la web ___- PyPI___
 
 ![solu2](/assets/img/errorinpy/ejemplo.png)
 
