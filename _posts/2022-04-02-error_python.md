@@ -3,7 +3,7 @@
 
 Muchas veces a la hora de ejecutar un exploit , un programa o un simple _script_ nos a pasado que *python*
  arroje un error por el modulo que se desea usar.
-![error](/assets/img/no module named.png)
+![error](/assets/img/errorinpy/nomodule.png)
 
 Lo más lógico sería ir a google a buscar el error y encontrar en diversos sitios americanos como repararlo.
 pero para ahorrar ese tiempo valioso , lo resumiré en un post _(Específicamente este.)_
