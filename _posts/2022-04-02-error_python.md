@@ -12,7 +12,7 @@ pero para ahorrar ese tiempo valioso , lo resumiré en un post _(Específicament
 # Solución 1
 Harémos lo más lógico. En el buscador adaptaremos nuestra busqueda a ___'' [Nombre del modulo] python [Version de python]''___
 
-![solu1](/assets/img/errorinpy/formato busqueda.png)
+![solu1](/assets/img/errorinpy/formato.png)
 
 y entraremos donde este nuestro paquete por ejemplo _requests_ junto a su version y la web ___- PyPI___
 
