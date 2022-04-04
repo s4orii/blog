@@ -11,7 +11,7 @@ pero para ahorrar ese tiempo valioso , lo resumiré en un post _(Específicament
 
 # Solución 1
 Harémos lo más lógico. En el buscador adaptaremos nuestra busqueda a ___'' [Nombre del modulo] python [Version de python]''___
-en este caso usare de ejemplo el de el error de la primera foto , el modulo _requests_
+en este caso usare de ejemplo el de el error de la primera foto , el modulo _requests_. Si bien no es especificamente para python2.7 es una version de requests que es soportada por el mismo.
 
 ![solu1](/assets/img/errorinpy/formato.png)
 
