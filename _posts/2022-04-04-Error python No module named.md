@@ -45,10 +45,14 @@ Una vez clonado , nos moveremos dentro del repositorio
 
 y haremos una instalacion con el _setup_ que viene en el mismo repositorio , lo instalaremos con la version de python a la cual querramos instalarle el _modulo_ con el siguiente comando.
 >**Python3**
+
+
 >sudo python3 setup.py install
 
 
 >**Python2** 
+
+
 >sudo python2 setup.py install
 
 y ya se te instalara el modulo en tu python de version 3 _(o 2)_
