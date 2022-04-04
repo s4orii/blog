@@ -12,12 +12,12 @@ pero para ahorrar ese tiempo valioso , lo resumiré en un post _(Específicament
 # Solución 1
 Harémos lo más lógico. En el buscador adaptaremos nuestra busqueda a ___'' [Nombre del modulo] python [Version de python]''___
 
-![solu1](foto xd)
+![solu1](/assets/img/errorinpy/formato.png)
 
 y entraremos donde este nuestro paquete por ejemplo _requests_ junto a su version y la web ___- PyPI___
 
-![solu2](ejemplo xd)
+![solu2](/assets/img/errorinpy/ejemplo.png)
 
 y tal como dice el sitio , lo instalaremos con _pip_ y su correspondiente sintaxsis.
 
-![solu3](foto xdxd)
+![solu3](/assets/img/errorinpy/solucion1.png)
